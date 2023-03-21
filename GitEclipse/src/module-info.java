@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author trifd
+ *
+ */
+module GitEclipse {
+}
